@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Unreol Freedom](https://github.com/UnreolFreedom)
 
-- 👨‍💻 All of my projects are available at [https://github.com/UnreolFreedom/unreol-freedom-portfolio](https://github.com/UnreolFreedom/unreol-freedom-portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/UnreolFreedom](https://github.com/UnreolFreedom)
 
 - 💬 Ask me about **React, Javascript, Python**
 
