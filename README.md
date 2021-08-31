@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Taylan Öztürk</h1>
 <h3 align="center">A 14 years old programmer from Turkey</h3>
 
-- 🔭 I’m currently working on [Unreol Freedom](https://github.com/UnreolFreedom)
+- 🔭 I’m currently working on [Unreol Freedom](https://github.com/Unreol-Freedom)
 
-- 👨‍💻 All of my projects are available at [https://github.com/UnreolFreedom](https://github.com/UnreolFreedom) (Also available at the [portfolio](https://unreol-freedom-portfolio.vercel.app/projects) )
-
-- 💬 Ask me about **React, Javascript, Python**
+- 👨‍💻 All of my projects are available at [Unreol Freedom](https://github.com/Unreol-Freedom) and my profile.
+- 💬 Ask me about **React, Javascript, Python, NextJS**
 
 - 📫 How to reach me **taylanozturk.freedom@gmail.com**
 
