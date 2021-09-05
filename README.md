@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [Unreol Freedom](https://github.com/Unreol-Freedom) and my profile (see the pinned repositories section, they are my repositories)
 - 💬 Ask me about **React, Javascript, Python, NextJS**
 
-- 📫 How to reach me **taylanozturk.freedom@gmail.com**
+- 📫 How to reach me **1taylanozturk@pm.me**
 
 
 <h3 align="left">Languages and Tools:</h3>
