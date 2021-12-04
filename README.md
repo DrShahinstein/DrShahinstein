@@ -3,10 +3,10 @@
 
 - 🔭 I’m currently working on [Unreol Freedom](https://github.com/Unreol-Freedom)
 
-- 👨‍💻 All of my projects are available at [Unreol Freedom](https://github.com/Unreol-Freedom) and my profile (see the pinned repositories section, they are my repositories)
+- 👨‍💻 All of my projects are available at [Unreol Freedom](https://github.com/Unreol-Freedom) and my personal github 
 - 💬 Ask me about **React, Javascript, Python, NextJS**
-
 - 📫 How to reach me **1taylanozturk@pm.me**
+- 🗒️ Note: My "major" action is on [Unreol Freedom](https://github.com/Unreol-Freedom). You can see the pinned repositories section from my profile to see my major works on [Unreol Freedom](https://github.com/Unreol-Freedom). I share "minor" things in my personal github.
 
 
 <h3 align="left">Languages and Tools:</h3>
