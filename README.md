@@ -19,6 +19,8 @@ I'm a full-stack web developer and also a Python programmer who is currently wor
 
 - 📫 How to reach me **1taylanozturk@pm.me**
 
+- 🗒️ Note: My major works are avaliable at [https://unreol-freedom.github.io/](https://unreol-freedom.github.io/) whereas I usually share minor things on my personal github.
+
 <p align="left"> <a href="https://twitter.com/1taylanozturk" target="blank"><img src="https://img.shields.io/twitter/follow/1taylanozturk?logo=twitter&style=for-the-badge" alt="1taylanozturk" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
