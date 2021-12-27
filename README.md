@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Taylan</h1>
 <h3 align="center">A 14 years old programmer from Turkey</h3>
 
+I'm a full-stack web developer and also a Python programmer who is currently working on [Unreol Freedom](https://github.com/Unreol-Freedom). I'm totally a free software supporter and producer, programmer. You can ask me about Python, ReactJS, NextJS, ExpressJS and Linux. I’m on the other hand really into video games, martial arts, English and chess. See my [Lichess profile](https://lichess.org/@/Hades_1).
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1taylanozturk&label=Profile%20views&color=0e75b6&style=flat" alt="1taylanozturk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1taylanozturk" alt="1taylanozturk" /></a> </p>
