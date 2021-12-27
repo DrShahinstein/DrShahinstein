@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taylan Öztürk</h1>
 <h3 align="center">A 14 years old programmer from Turkey</h3>
-<br />
-<h4>I'm Taylan. I'm a full-stack web developer and also a Python programmer who is currently working on [Unreol Freedom](https://github.com/Unreol-Freedom). I'm totally a free software supporter and producer, programmer. You can ask me about Python, ReactJS, NextJS, ExpressJS and Linux. I’m on the other hand really into video games, martial arts, English and chess. See my [Lichess Profile](https://lichess.org/@/Hades_1)<h4/>
+
+I'm Taylan. I'm a full-stack web developer and also a Python programmer who is currently working on [Unreol Freedom](https://github.com/Unreol-Freedom). I'm totally a free software supporter and producer, programmer. You can ask me about Python, ReactJS, NextJS, ExpressJS and Linux. I’m on the other hand really into video games, martial arts, English and chess. See my [Lichess Profile](https://lichess.org/@/Hades_1).
 
 - 👨‍💻 All of my projects are available at [Unreol Freedom](https://github.com/Unreol-Freedom) and my personal github 
 - 💬 Ask me about **Python, ReactJS, NextJS, ExpressJS, Linux**
