@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F73209&center=true&vCenter=true&width=402&height=52&lines=Free+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F700CD&size=30&center=true&width=1000&height=100&lines=Free+Software;Unreol+Freedom)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Taylan</h1>
 <h3 align="center">A 14 years old programmer from Turkey</h3>
