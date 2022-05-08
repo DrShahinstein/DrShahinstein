@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F700CD&size=30&center=true&width=1000&height=100&lines=Free+Software;Unreol+Freedom)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Taylan</h1>
-<h3 align="center">A 14 years old programmer from Turkey</h3>
+<h3 align="center">A Free Software Supporter</h3>
 
 I'm a full-stack web developer and also a Python programmer who is currently working on [Unreol Freedom](https://github.com/Unreol-Freedom). I'm totally a free software supporter and producer, programmer. You can ask me about Python, ReactJS, NextJS, ExpressJS and Linux. I’m on the other hand really into video games, martial arts, English and chess. See my [Lichess profile](https://lichess.org/@/Hades_1).
 
@@ -9,15 +9,11 @@ I'm a full-stack web developer and also a Python programmer who is currently wor
 
 - 🔭 I’m currently working on [Unreol Freedom](https://github.com/Unreol-Freedom)
 
-- 🌱 I’m currently learning **Django**
-
-- 👨‍💻 All of my projects are available at [https://unreol-freedom.github.io/](https://unreol-freedom.github.io/)
+- 🌱 I’m currently learning **Django, Rust**
 
 - 💬 Ask me about **Python, ReactJS, NextJS, ExpressJS, Linux**
 
 - 📫 How to reach me **1taylanozturk@pm.me**
-
-- 🗒️ Note: My major works are avaliable at [https://unreol-freedom.github.io/](https://unreol-freedom.github.io/) whereas I usually share minor things on my personal github.
 
 <p align="left"> <a href="https://twitter.com/1taylanozturk" target="blank"><img src="https://img.shields.io/twitter/follow/1taylanozturk?logo=twitter&style=for-the-badge" alt="1taylanozturk" /></a> </p>
 
