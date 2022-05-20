@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F700CD&size=30&center=true&width=1000&height=100&lines=Free+Software;Unreol+Freedom)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Taylan</h1>
-<h3 align="center">A Free Software Supporter</h3>
+<h3 align="center">A Free Software Programmer</h3>
 
-I'm a full-stack web developer and also a Python, Javascript programmer who is currently working on [Unreol Freedom](https://github.com/Unreol-Freedom). I'm totally a free software supporter and producer, programmer. You can ask me about Python, ReactJS, NextJS, ExpressJS and Linux. I’m on the other hand really into video games, martial arts, English and chess. See my [Lichess profile](https://lichess.org/@/Hades_1).
+I'm a full-stack web developer and also a Python, Javascript programmer. I'm totally a free software supporter and producer, programmer. You can ask me about Python, ReactJS, NextJS, ExpressJS and Linux. I’m on the other hand really into video games, martial arts, English and chess. See my [Lichess profile](https://lichess.org/@/Hades_1).
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1taylanozturk" alt="1taylanozturk" /></a> </p>
 
