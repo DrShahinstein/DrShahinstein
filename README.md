@@ -9,9 +9,6 @@ I'm a full-stack web developer and also a Python, Javascript programmer. I suppo
 
 - 📫 How to reach me **1taylanozturk@pm.me**
 
-<p align="left"> <a href="https://twitter.com/1taylanozturk" target="blank"><img src="https://img.shields.io/twitter/follow/1taylanozturk?logo=twitter&style=for-the-badge" alt="1taylanozturk" /></a> </p>
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drshahinstein&show_icons=true&locale=en" alt="1taylanozturk" /></p>
 
 
