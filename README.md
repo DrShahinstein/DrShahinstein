@@ -8,9 +8,3 @@ I'm a full-stack web developer and also a Python, Javascript programmer. I suppo
 - 🌱 Currently learning **Rust**
 
 - 📫 How to reach me **1taylanozturk@pm.me**
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drshahinstein&show_icons=true&locale=en" alt="1taylanozturk" /></p>
-
-
-
-
