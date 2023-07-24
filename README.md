@@ -14,4 +14,7 @@ All aside, I remarkably have a true passion and love for [chess](https://lichess
 I'm open to networking and connecting with fellow developers and enthusiasts. Let's collaborate on exciting projects and gather same minds together!
 
 - 🎧 My beautiful [playlists](https://www.youtube.com/@DrShahinstein/playlists)
-- 📫 Reach out: **1taylanozturk@pm.me**
+- 📁 reach-out/ 
+  - 🔗 telegram: [@DrShahinstein](https://t.me/DrShahinstein)
+  - 🔗 discord: [@DrShahinstein#7287](https://discord.com/users/738517460378189926)
+  - 📫 email: **1taylanozturk@pm.me**
