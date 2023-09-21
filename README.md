@@ -8,6 +8,6 @@ I'm a passionate man.
   - lichess => [@DrChillinstein](https://lichess.org/@/DrChillinstein)
   - chess.com => [@DrShahinstein](https://www.chess.com/member/drshahinstein)
 - 📁 reach-out/ 
-  - 🔗 telegram: [@DrShahinstein](https://t.me/DrShahinstein)
-  - 🔗 discord: [@DrShahinstein#7287](https://discord.com/users/738517460378189926)
-  - 📫 email: **1taylanozturk@pm.me**
+  - 🔗 telegram => [@DrShahinstein](https://t.me/DrShahinstein)
+  - 🔗 discord => [@DrShahinstein#7287](https://discord.com/users/738517460378189926)
+  - 📫 email => **1taylanozturk@pm.me**
