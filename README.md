@@ -17,7 +17,7 @@ A passionate guy whose interiority is beautifully reflected in Anathema songs
     - 🎵 [jamie bower - paralyzed](https://www.youtube.com/watch?v=Dq_bP6H_InI)
 - 👑 **chess/**
   - lichess => [@DrShahinstein](https://lichess.org/@/DrShahinstein)
-  - lichess => [@DrChillinstein](https://lichess.org/@/DrChillinstein)
+  - lichess => [@LokumSpor](https://lichess.org/@/LokumSpor)
   - chess.com => [@DrShahinstein](https://www.chess.com/member/drshahinstein)
 - 📁 **reach-out/**
   - 🔗 telegram => [@DrShahinstein](https://t.me/DrShahinstein)
