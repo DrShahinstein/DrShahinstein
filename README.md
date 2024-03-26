@@ -18,9 +18,10 @@ A passionate guy whose interiority is beautifully reflected in Anathema songs
 - 👑 **chess/**
   - lichess => [@DrShahinstein](https://lichess.org/@/DrShahinstein)
   - lichess => [@DrChillinstein](https://lichess.org/@/DrChillinstein)
+  - lichess => [@LokumSpor](https://lichess.org/@/LokumSpor)
   - chess.com => [@DrShahinstein](https://www.chess.com/member/drshahinstein)
 - 📁 **reach-out/**
   - 🔗 telegram => [@DrShahinstein](https://t.me/DrShahinstein)
   - 🔗 discord => [@DrShahinstein#7287](https://discord.com/users/738517460378189926)
   - 📫 email => **1taylanozturk@pm.me**
-- 📝 [resume.pdf](drshahinstein.github.io)
+- 📝 [resume.pdf](https://drshahinstein.github.io/)
