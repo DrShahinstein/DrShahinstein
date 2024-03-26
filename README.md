@@ -23,3 +23,4 @@ A passionate guy whose interiority is beautifully reflected in Anathema songs
   - 🔗 telegram => [@DrShahinstein](https://t.me/DrShahinstein)
   - 🔗 discord => [@DrShahinstein#7287](https://discord.com/users/738517460378189926)
   - 📫 email => **1taylanozturk@pm.me**
+- 📝 [resume.pdf](drshahinstein.github.io)
