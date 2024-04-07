@@ -25,3 +25,7 @@ A passionate guy whose interiority is beautifully reflected in Anathema songs
   - 🔗 discord => [@DrShahinstein#7287](https://discord.com/users/738517460378189926)
   - 📫 email => **1taylanozturk@pm.me**
 - 📝 [resume.pdf](https://github.com/DrShahinstein/DrShahinstein/files/14896998/resume.pdf)
+
+<br/>
+
+<a href="https://www.buymeacoffee.com/DrShahinstein" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
