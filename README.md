@@ -3,8 +3,9 @@
 A passionate guy whose interiority is beautifully reflected in Anathema songs
 
 - 🎧 **music/**
-  - 🎧 my beautiful [playlists](https://www.youtube.com/@DrShahinstein/playlists)
-  - 🎧 **several-favorite-songs/**
+  - 🎧 my [playlists](https://www.youtube.com/@DrShahinstein/playlists)
+  - 🎧 favorite playlist: [hits different](https://music.youtube.com/playlist?list=PLBahOBq74DZNf3F069wWa-9bkAlGyUaS4)
+  - 🎧 **some-favorite-music/**
     - 🎵 [anathema - flying (original album classics)](https://www.youtube.com/watch?v=iWPQNLeYoKg)
     - 🎵 [anathema - flying (live)](https://www.youtube.com/watch?v=13nYeV_4TyY)
     - 🎵 [anathema - a natural disaster (live)](https://www.youtube.com/watch?v=IcJKCSqMPuY)
@@ -15,6 +16,7 @@ A passionate guy whose interiority is beautifully reflected in Anathema songs
     - 🎵 [no clear mind - dream is destiny](https://www.youtube.com/watch?v=Jj1sa0jay4c)
     - 🎵 [no clear mind - celeste](https://www.youtube.com/watch?v=U2Cms6caTBE&list=PLBahOBq74DZNf3F069wWa-9bkAlGyUaS4)
     - 🎵 [jamie bower - paralyzed](https://www.youtube.com/watch?v=Dq_bP6H_InI)
+    - 🎵 [einaudi - experience](https://youtu.be/1e9B31FLT-s)
 - 👑 **chess/**
   - lichess => [@DrShahinstein](https://lichess.org/@/DrShahinstein)
   - lichess => [@DrChillinstein](https://lichess.org/@/DrChillinstein)
