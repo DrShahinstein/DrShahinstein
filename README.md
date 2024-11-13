@@ -22,8 +22,10 @@ A passionate guy whose interiority is beautifully reflected in Anathema songs
   - lichess => [@DrChillinstein](https://lichess.org/@/DrChillinstein)
   - lichess => [@LokumSpor](https://lichess.org/@/LokumSpor)
   - chess.com => [@DrShahinstein](https://www.chess.com/member/drshahinstein)
-  - [a decent rapid match of mine](https://lichess.org/TdAA6VgCzZbu)
-  - [my first blitz with a titled player](https://lichess.org/HM3nFCeDiVyP)
+  - **some-favorite/**
+    - [a decent rapid match of mine](https://lichess.org/TdAA6VgCzZbu)
+    - [well played blitz](https://www.chess.com/game/live/125272787847)
+    - [my first blitz with a titled player](https://lichess.org/HM3nFCeDiVyP)
 - 📁 **reach-out/**
   - 🔗 telegram => [@DrShahinstein](https://t.me/DrShahinstein)
   - 🔗 discord => [@DrShahinstein#7287](https://discord.com/users/738517460378189926)
