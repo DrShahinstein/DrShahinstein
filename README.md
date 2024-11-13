@@ -23,7 +23,7 @@ A passionate guy whose interiority is beautifully reflected in Anathema songs
   - lichess => [@LokumSpor](https://lichess.org/@/LokumSpor)
   - chess.com => [@DrShahinstein](https://www.chess.com/member/drshahinstein)
   - **some-favorite/**
-    - [a decent rapid match of mine](https://lichess.org/TdAA6VgCzZbu)
+    - [decent rapid](https://lichess.org/TdAA6VgCzZbu)
     - [well played blitz](https://www.chess.com/game/live/125272787847)
     - [my first blitz with a titled player](https://lichess.org/HM3nFCeDiVyP)
 - 📁 **reach-out/**
