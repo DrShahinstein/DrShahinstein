@@ -26,6 +26,7 @@ A passionate guy whose interiority is beautifully reflected in Anathema songs
     - [decent rapid](https://lichess.org/TdAA6VgCzZbu)
     - [well played blitz](https://www.chess.com/game/live/125272787847)
     - [my first blitz with a titled player](https://lichess.org/HM3nFCeDiVyP)
+    - [DAMN_BEAUTIFUL_I_LIKE_THIS](https://www.chess.com/game/live/125432309311)
 - 📁 **reach-out/**
   - 🔗 telegram => [@DrShahinstein](https://t.me/DrShahinstein)
   - 🔗 discord => [@DrShahinstein#7287](https://discord.com/users/738517460378189926)
