@@ -8,6 +8,7 @@ A passionate guy whose interiority is beautifully reflected in Anathema songs
   - 🎧 **some-favorite-music/**
     - 🎵 [anathema - flying (original album classics)](https://www.youtube.com/watch?v=iWPQNLeYoKg)
     - 🎵 [anathema - flying (live)](https://www.youtube.com/watch?v=13nYeV_4TyY)
+    - 🎵 [It's Snowing Like It's the End of the World](https://youtu.be/kFUeijXc0iw)
     - 🎵 [anathema - a natural disaster (live)](https://www.youtube.com/watch?v=IcJKCSqMPuY)
     - 🎵 [anathema - a simple mistake (live)](https://www.youtube.com/watch?v=G4BFu3E7-T4)
     - 🎵 [anathema - inner silence](https://www.youtube.com/watch?v=MZ4y5Y3vPxA&list=PLBahOBq74DZNf3F069wWa-9bkAlGyUaS4)
