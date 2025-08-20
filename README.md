@@ -1,7 +1,5 @@
 ## Taylan Öztürk (aka DrShahinstein)
 
-A passionate guy whose interiority is beautifully reflected in Anathema songs
-
 - 🎧 **music/**
   - 🎧 my [playlists](https://www.youtube.com/@DrShahinstein/playlists)
   - 🎧 favorite playlist: [hits different](https://music.youtube.com/playlist?list=PLBahOBq74DZNf3F069wWa-9bkAlGyUaS4)
