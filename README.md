@@ -6,22 +6,14 @@
 
 <br></br>
 
-- 🎧 **music/**
-  - 🎧 my [playlists](https://www.youtube.com/@DrShahinstein/playlists)
-  - 🎧 favorite playlist: [hits different](https://music.youtube.com/playlist?list=PLBahOBq74DZNf3F069wWa-9bkAlGyUaS4)
-  - 🎧 **some-favorite-music/**
-    - 🎵 [anathema - flying (original album classics)](https://www.youtube.com/watch?v=iWPQNLeYoKg)
-    - 🎵 [anathema - flying (live)](https://www.youtube.com/watch?v=13nYeV_4TyY)
-    - 🎵 [it's snowing like it's the end of the world](https://youtu.be/kFUeijXc0iw)
-    - 🎵 [anathema - a natural disaster (live)](https://www.youtube.com/watch?v=IcJKCSqMPuY)
-    - 🎵 [anathema - a simple mistake (live)](https://www.youtube.com/watch?v=G4BFu3E7-T4)
-    - 🎵 [anathema - inner silence](https://www.youtube.com/watch?v=MZ4y5Y3vPxA&list=PLBahOBq74DZNf3F069wWa-9bkAlGyUaS4)
-    - 🎵 [shamrain - raindrops](https://www.youtube.com/watch?v=2Eh0QXBByAs)
-    - 🎵 [shamrain - silent lullaby](https://www.youtube.com/watch?v=dxZVn7iUt4o)
-    - 🎵 [no clear mind - dream is destiny](https://www.youtube.com/watch?v=Jj1sa0jay4c)
-    - 🎵 [no clear mind - celeste](https://www.youtube.com/watch?v=U2Cms6caTBE&list=PLBahOBq74DZNf3F069wWa-9bkAlGyUaS4)
-    - 🎵 [jamie bower - paralyzed](https://www.youtube.com/watch?v=Dq_bP6H_InI)
-    - 🎵 [einaudi - experience](https://youtu.be/1e9B31FLT-s)
+- 🎧 **some-favorite-music/**
+  - 🎵 [anathema - flying (original album classics)](https://www.youtube.com/watch?v=iWPQNLeYoKg)
+  - 🎵 [it's snowing like it's the end of the world](https://youtu.be/kFUeijXc0iw)
+  - 🎵 [no clear mind - dream is destiny](https://www.youtube.com/watch?v=Jj1sa0jay4c)
+  - 🎵 [jamie bower - paralyzed](https://www.youtube.com/watch?v=Dq_bP6H_InI)
+  - 🎵 [far from any road](https://youtu.be/TRJ_s2G76Hg?si=vnEg-wFsHodA6GPM)
+  - 🎵 [eminem - lose yourself](https://www.youtube.com/watch?v=xFYQQPAOz7Y)
+
 - 👑 **chess/**
   - lichess => [@DrShahinstein](https://lichess.org/@/DrShahinstein)
   - chess.com => [@DrShahinstein](https://www.chess.com/member/drshahinstein)
@@ -33,8 +25,7 @@
     - [best pawn structure lol](https://lichess.org/seC0ULBp)
 - 📁 **reach-out/**
   - 🔗 telegram => [@DrShahinstein](https://t.me/DrShahinstein)
-  - 🔗 discord => [@DrShahinstein#7287](https://discord.com/users/738517460378189926)
-  - 📫 email => **1taylanozturk@pm.me**
+  - 📫 email => **1taylanozturk@protonmail.com**
 - 📝 [resume.pdf](https://flowcv.com/resume/4qlsssbbu2)
 
 
