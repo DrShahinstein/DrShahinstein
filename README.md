@@ -1,5 +1,11 @@
 ## Taylan Öztürk (aka DrShahinstein)
 
+<br></br>
+
+> "It's not for us to recognize where is the end of our creative potential" — Kasparov
+
+<br></br>
+
 - 🎧 **music/**
   - 🎧 my [playlists](https://www.youtube.com/@DrShahinstein/playlists)
   - 🎧 favorite playlist: [hits different](https://music.youtube.com/playlist?list=PLBahOBq74DZNf3F069wWa-9bkAlGyUaS4)
@@ -18,8 +24,6 @@
     - 🎵 [einaudi - experience](https://youtu.be/1e9B31FLT-s)
 - 👑 **chess/**
   - lichess => [@DrShahinstein](https://lichess.org/@/DrShahinstein)
-  - lichess => [@DrChillinstein](https://lichess.org/@/DrChillinstein)
-  - lichess => [@LokumSpor](https://lichess.org/@/LokumSpor)
   - chess.com => [@DrShahinstein](https://www.chess.com/member/drshahinstein)
   - **some-favorite/**
     - [decent rapid](https://lichess.org/TdAA6VgCzZbu)
@@ -35,5 +39,6 @@
 
 
 <br/>
+
 
 <a href="https://www.buymeacoffee.com/DrShahinstein" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
