@@ -17,7 +17,7 @@
 - 👑 **chess/**
   - lichess => [@DrShahinstein](https://lichess.org/@/DrShahinstein)
   - chess.com => [@DrShahinstein](https://www.chess.com/member/drshahinstein)
-  - **some-favorite/**
+  - **some-matches/**
     - [decent rapid](https://lichess.org/TdAA6VgCzZbu)
     - [well played blitz](https://www.chess.com/game/live/125272787847)
     - [my first blitz with a titled player](https://lichess.org/HM3nFCeDiVyP)
