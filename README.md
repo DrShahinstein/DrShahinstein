@@ -24,6 +24,7 @@
     - [DAMN_BEAUTIFUL_I_LIKE_THIS](https://www.chess.com/game/live/125432309311)
     - [best pawn structure lol](https://lichess.org/seC0ULBp)
     - [good opening!!](https://www.chess.com/game/143863698262)
+    - [transposed into grünfeld: equal game won with persistence](https://www.chess.com/game/live/143896153792)
 - 📁 **reach-out/**
   - 🔗 telegram => [@DrShahinstein](https://t.me/DrShahinstein)
   - 📫 email => **1taylanozturk@protonmail.com**
