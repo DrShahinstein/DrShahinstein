@@ -12,7 +12,8 @@
   - 🎵 [no clear mind - dream is destiny](https://www.youtube.com/watch?v=Jj1sa0jay4c)
   - 🎵 [jamie bower - paralyzed](https://www.youtube.com/watch?v=Dq_bP6H_InI)
   - 🎵 [far from any road](https://youtu.be/TRJ_s2G76Hg?si=vnEg-wFsHodA6GPM)
-  - 🎵 [eminem - lose yourself](https://www.youtube.com/watch?v=xFYQQPAOz7Y)
+  - 🎵 [kris kristofferson - casey's last ride](https://www.youtube.com/watch?v=3sOZCkN-4Tc)
+  - 🎵 [shivaree - goodnight moon](https://www.youtube.com/watch?v=waAam2n0kB0)
 
 - 👑 **chess/**
   - lichess => [@DrShahinstein](https://lichess.org/@/DrShahinstein)
