@@ -2,7 +2,11 @@
 
 <br></br>
 
-> "It's not for us to recognize where is the end of our creative potential" — Kasparov
+> "Egg breaks from the outside, life ends; egg breaks from the inside, life begins." — Ancient Knowledge
+
+> "It's not for us to recognize where is the end of our creative potential." — Kasparov
+
+> "The creator's concern is the conquest of nature, the parasite's concern is the conquest of men." — Ayn Rand
 
 <br></br>
 
