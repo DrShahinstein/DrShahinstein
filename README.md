@@ -12,12 +12,12 @@
 
 - 🎧 **some-favorite-music/**
   - 🎵 [anathema - flying (original album classics)](https://www.youtube.com/watch?v=iWPQNLeYoKg)
-  - 🎵 [it's snowing like it's the end of the world](https://youtu.be/kFUeijXc0iw)
   - 🎵 [no clear mind - dream is destiny](https://www.youtube.com/watch?v=Jj1sa0jay4c)
   - 🎵 [jamie bower - paralyzed](https://www.youtube.com/watch?v=Dq_bP6H_InI)
   - 🎵 [far from any road](https://youtu.be/TRJ_s2G76Hg?si=vnEg-wFsHodA6GPM)
   - 🎵 [kris kristofferson - casey's last ride](https://www.youtube.com/watch?v=3sOZCkN-4Tc)
   - 🎵 [shivaree - goodnight moon](https://www.youtube.com/watch?v=waAam2n0kB0)
+  - 🎵 [salvation lies within](https://www.youtube.com/watch?v=fowLib3Op1c)
 
 - 👑 **chess/**
   - lichess => [@DrShahinstein](https://lichess.org/@/DrShahinstein)
