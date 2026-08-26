@@ -33,7 +33,7 @@
 - 📁 **reach-out/**
   - 🔗 telegram => [@DrShahinstein](https://t.me/DrShahinstein)
   - 📫 email => **1taylanozturk@protonmail.com**
-- 📝 [resume.pdf](https://flowcv.com/resume/4qlsssbbu2)
+- 📝 [resume.pdf](resume.pdf)
 
 
 <br/>
