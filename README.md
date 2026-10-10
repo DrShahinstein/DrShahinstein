@@ -8,6 +8,8 @@
 
 > "The creator's concern is the conquest of nature, the parasite's concern is the conquest of men." — Ayn Rand
 
+> "Not all those who wander are lost." — Tolkien
+
 <br></br>
 
 - 🎧 **some-favorite-music/**
@@ -32,6 +34,7 @@
     - [crazy tactic missed leading to loss](https://lichess.org/Jn4iz2Jm/black#0)
 - 📁 **reach-out/**
   - 🔗 telegram => [@DrShahinstein](https://t.me/DrShahinstein)
+  - 🔹 linkedin => [@drshahinstein](https://www.linkedin.com/in/drshahinstein)
   - 📫 email => **1taylanozturk@protonmail.com**
 - 📝 [resume.pdf](resume.pdf)
 
