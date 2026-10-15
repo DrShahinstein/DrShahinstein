@@ -10,6 +10,8 @@
 
 > "Not all those who wander are lost." — Tolkien
 
+> "You can live with dignity, you can't die with it." — Dr. House
+
 <br></br>
 
 - 🎧 **some-favorite-music/**
